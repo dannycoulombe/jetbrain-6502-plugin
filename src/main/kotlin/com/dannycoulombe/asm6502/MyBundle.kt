@@ -1,4 +1,4 @@
-package com.github.dannycoulombe.jetbrain6502plugin
+package com.dannycoulombe.asm6502
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

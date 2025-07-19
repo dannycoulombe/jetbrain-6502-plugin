@@ -1,4 +1,4 @@
-package com.github.dannycoulombe.jetbrain6502plugin.toolWindow
+package com.dannycoulombe.asm6502.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.dannycoulombe.jetbrain6502plugin.MyBundle
-import com.github.dannycoulombe.jetbrain6502plugin.services.MyProjectService
+import com.dannycoulombe.asm6502.MyBundle
+import com.dannycoulombe.asm6502.services.MyProjectService
 import javax.swing.JButton
 
 

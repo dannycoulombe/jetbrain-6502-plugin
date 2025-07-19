@@ -1,4 +1,4 @@
-package com.github.dannycoulombe.jetbrain6502plugin.startup
+package com.dannycoulombe.asm6502.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project

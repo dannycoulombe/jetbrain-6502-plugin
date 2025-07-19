@@ -1,9 +1,9 @@
-package com.github.dannycoulombe.jetbrain6502plugin.services
+package com.dannycoulombe.asm6502.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.dannycoulombe.jetbrain6502plugin.MyBundle
+import com.dannycoulombe.asm6502.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {
